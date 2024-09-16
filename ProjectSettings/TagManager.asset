@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Screw
+  - Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Layer0
+  - Layer1
+  - Layer2
+  - Layer3
+  - Layer4
+  - Layer5
+  - Layer6
+  - Layer7
+  - Layer8
+  - Layer9
+  - Layer10
+  - Layer11
+  - Layer12
+  - Layer13
+  - Layer14
+  - Layer15
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer0
+    uniqueID: 4076724059
+    locked: 0
+  - name: Layer1
+    uniqueID: 1695822391
+    locked: 0
+  - name: Layer2
+    uniqueID: 4218879131
+    locked: 0
+  - name: Layer3
+    uniqueID: 3724616373
+    locked: 0
+  - name: Layer4
+    uniqueID: 2227741641
+    locked: 0
+  - name: Layer5
+    uniqueID: 3937616307
+    locked: 0
+  - name: Layer6
+    uniqueID: 3943664801
+    locked: 0
+  - name: Layer7
+    uniqueID: 3905279851
+    locked: 0
+  - name: Layer8
+    uniqueID: 1941446937
+    locked: 0
+  - name: Layer9
+    uniqueID: 1144206535
+    locked: 0
+  - name: Layer10
+    uniqueID: 3994101359
+    locked: 0
+  - name: Layer11
+    uniqueID: 1383112821
+    locked: 0
+  - name: Layer12
+    uniqueID: 1564020391
+    locked: 0
+  - name: Layer13
+    uniqueID: 2152907367
+    locked: 0
+  - name: Layer14
+    uniqueID: 2427568359
+    locked: 0
+  - name: Layer15
+    uniqueID: 3330428633
+    locked: 0
+  - name: BoxSlot
+    uniqueID: 1123208867
+    locked: 0
+  - name: ScrewOut
+    uniqueID: 38924827
+    locked: 0
+  - name: UI
+    uniqueID: 3703133671
+    locked: 0
